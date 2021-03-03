@@ -8,6 +8,7 @@ A weather app that allows a user to look up the current weather in a city while 
 * Javascript
 * CSS3
 * AJAX
+* JSON
 
 ### Live Demo
 
