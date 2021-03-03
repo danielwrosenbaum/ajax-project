@@ -35,6 +35,6 @@ A weather app that allows a user to look up the current weather in a city while 
 * How to adjust media settings for mobile and screen without limiting functionality for either.
 * How to add a loading spinner that appears whenever an API request is loading.
 
-## Screenshots
+## Example
 
 ![Ajax Project](https://user-images.githubusercontent.com/74999873/109740012-5dd16880-7b7f-11eb-9da3-ab6b59a25e1b.gif)
