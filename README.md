@@ -37,6 +37,4 @@ A weather app that allows a user to look up the current weather in a city while 
 
 ## Screenshots
 
-![Screen Shot 2021-03-02 at 3 17 21 PM](https://user-images.githubusercontent.com/74999873/109728354-de399e80-7b6a-11eb-9859-9dba35d91a9a.png)
-![Screen Shot 2021-03-02 at 3 18 18 PM](https://user-images.githubusercontent.com/74999873/109728366-e09bf880-7b6a-11eb-96be-dcc371e6415f.png)
-![Screen Shot 2021-03-02 at 3 18 29 PM](https://user-images.githubusercontent.com/74999873/109728368-e2fe5280-7b6a-11eb-9eed-e14844318444.png)
+![Ajax Project](https://user-images.githubusercontent.com/74999873/109740012-5dd16880-7b7f-11eb-9da3-ab6b59a25e1b.gif)
