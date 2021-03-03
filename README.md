@@ -2,11 +2,18 @@
 
 A weather app that allows a user to look up the current weather in a city while viewing an historic painting that has a similar vibe and setting.
 
-### Link
+## Technologies Used
 
-[Weather as Art](https://danielwrosenbaum.github.io/ajax-project/)
+* HTML5
+* Javascript
+* CSS3
+* AJAX
 
-## Features:
+### Live Demo
+
+[Try the application live here](https://danielwrosenbaum.github.io/ajax-project/)
+
+## Features
 
 1. User can view the current weather conditions of any city in the world simply by typing in the city's name.
 2. User will also be able to view a painting from the Rijksmuseum collection that matches the requested city's weather conditions.
